@@ -2,8 +2,8 @@
   "ver": "0.1",
   "info": {
     "id": "",
-    "name": "",
-    "description": "",
+    "name": "Neon Vortex",
+    "description": "This shader shows boop",
     "tags": []
   },
   "renderpass": [
